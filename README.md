@@ -1,5 +1,14 @@
 # HDR
 reproduce the hdr plus pipeline
+
+## Overview
+### 1. Alignment
+1. 参考帧（reference frame）的选择
+2. 备用帧 (alternative frame)的对齐
+### 2. Merge for denoising
+### 3. Basic ISP
+
+
 ## Reference
 [HDR-Plus-Python](https://github.com/792x/HDR-Plus-Python/tree/master)
 ```
