@@ -2,6 +2,7 @@
 reproduce the hdr plus pipeline
 ## Reference
 ```
+[HDR-Plus-Python](https://github.com/792x/HDR-Plus-Python/tree/master)
 @article{hasinoff2016burst,
   title={Burst photography for high dynamic range and low-light imaging on mobile cameras},
   author={Hasinoff, Samuel W and Sharlet, Dillon and Geiss, Ryan and Adams, Andrew and Barron, Jonathan T and Kainz, Florian and Chen, Jiawen and Levoy, Marc},
